@@ -16,3 +16,6 @@ Serial Communication between Qt and Arduino, controlling RGB Led from Qt.
 
 
 
+
+https://user-images.githubusercontent.com/58274552/121872440-8bdd5180-cd05-11eb-898a-f9051c037cf9.mp4
+
